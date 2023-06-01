@@ -1823,7 +1823,7 @@ section {
   max-width: 100%;
   min-height: 100%;
   object-fit: cover;
-  display: none;
+ 
 }
 
 .modal-header,
@@ -1832,12 +1832,4 @@ section {
   font-family: "Montserrat", sans-serif;
 }
 
-.myVideo-shown {
-  position: relative;
-  right: 0;
-  bottom: 0;
-  max-width: 100%;
-  min-height: 100%;
-  object-fit: cover;
-  display: block;
-}
+

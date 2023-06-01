@@ -181,9 +181,7 @@
   if (preloader) {
     window.addEventListener("load", () => {
       preloader.remove();
-      // document.querySelectorAll(".myVideo").forEach(item=>{
-      //   item.play()
-      // })
+      
     });
   }
 
