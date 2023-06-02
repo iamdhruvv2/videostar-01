@@ -1,3 +1,7 @@
 {
-    "public": true
+    "public": true,
+    "builds": {
+        "src": "*.html",
+        "use": "@vercel/static"
+    }
 }
