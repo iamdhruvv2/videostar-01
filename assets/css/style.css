@@ -381,7 +381,7 @@ h1.logo a {
 }
 
 section {
-  padding: 60px 0;
+  padding: 10px 0;
   overflow: hidden;
 }
 
@@ -390,7 +390,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .section-title h2 {
