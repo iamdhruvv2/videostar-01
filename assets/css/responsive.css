@@ -61,7 +61,8 @@
         width: 200px;
       }
       .carousel-inner img{
-        height: 30vh;
+        height: auto;
+        width: 100%
       }
 }
 @media (max-width: 390px) {
