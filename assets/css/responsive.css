@@ -44,12 +44,14 @@
 @media (max-width: 830px) {
   .responsive-video{
     height: 20rem;
+    max-width: 100%;
   }
 }
 @media (max-width: 564px) {
 
   .responsive-video{
     height: 15rem;
+    max-width: 100%;
   }
 
     .navbar-mobile a {
@@ -69,6 +71,7 @@
 
       .responsive-video{
         height: 10rem;
+        max-width: 100%;
       }
 
 }
