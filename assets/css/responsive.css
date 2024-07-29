@@ -9,19 +9,14 @@
   #header {
     height: 11vh;
   }
-  #header .logo a {
-    /* font-size: 13px;
-    line-height: 2.2; */
-    display: none;
-  }
   #header .logo {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-    padding-left: 20px;
   }
   #header .logo img {
     height: 7vh;
+    margin-right: -45px;
   }
   .navbar a {
     color: white;
