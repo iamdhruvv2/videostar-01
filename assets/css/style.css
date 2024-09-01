@@ -328,12 +328,12 @@ h1.logo a {
   #header .logo a {
     font-size: 20px;
     line-height: 5;
-    width: 100%;
+/*     width: 100%; */
     white-space: nowrap;
     /* This prevents the text from breaking into multiple lines */
-    overflow: hidden;
+/*     overflow: hidden; */
     /* This ensures that any text beyond the container is hidden */
-    text-overflow: ellipsis;
+/*     text-overflow: ellipsis; */
     /* This adds an ellipsis (...) to the end of the text if it overflows the container */
   }
 
