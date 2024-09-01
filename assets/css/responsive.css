@@ -16,7 +16,8 @@
   }
   #header .logo img {
     height: 7vh;
-    margin-right: -45px;
+    margin-right: -230px;
+    width: 100%;
   }
   .navbar a {
     color: white;
