@@ -156,10 +156,12 @@ h1.logo a {
 }
 
 #header .logo a {
-  color: #000;
-  font-size: 35px;
-  font-weight: bold;
-  margin-left: 300px;
+ color: #000;
+    font-size: 25px;
+    word-wrap: unset;
+    font-weight: bold;
+    margin-left: 300px;
+    white-space: nowrap;
 }
 
 #header .logo img {
